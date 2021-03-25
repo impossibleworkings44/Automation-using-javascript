@@ -6,6 +6,7 @@ Automation using robot.js package ,using setTimeout, clearInterval, setInterval 
 
 ### RobotJS
 * [RobotJS](http://robotjs.io/)
+* [RobotJS method Syntax](http://robotjs.io/docs/syntax)
 
 # Windows
 1) Visual Studio 2013 (Express works fine).
